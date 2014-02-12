@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/index.html</loc>
-<lastmod>2014-02-12T14:01:38-00:00</lastmod>
+<lastmod>2014-02-12T15:23:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2014-02-12T14:01:38-00:00</lastmod>
+<lastmod>2014-02-12T15:23:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2014-02-12T14:01:38-00:00</lastmod>
+<lastmod>2014-02-12T15:23:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2014-02-12T14:01:38-00:00</lastmod>
+<lastmod>2014-02-12T15:23:19-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/markdown-test.html</loc>
+<lastmod>2012-01-01T00:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -49,6 +56,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>/my-super-post.html</loc>
 <lastmod>2010-10-03T10:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/category/ce-shi.html</loc>
+<lastmod>2012-01-01T00:00:00-00:00</lastmod>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -89,7 +103,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/wu-ci-ren.html</loc>
-<lastmod>2010-10-03T10:20:00-00:00</lastmod>
+<lastmod>2012-01-01T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
