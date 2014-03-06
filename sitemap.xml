@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/index.html</loc>
-<lastmod>2014-03-04T18:32:40-00:00</lastmod>
+<lastmod>2014-03-06T14:04:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2014-03-04T18:32:40-00:00</lastmod>
+<lastmod>2014-03-06T14:04:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2014-03-04T18:32:40-00:00</lastmod>
+<lastmod>2014-03-06T14:04:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2014-03-04T18:32:40-00:00</lastmod>
+<lastmod>2014-03-06T14:04:47-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/hatdog.html</loc>
+<lastmod>2014-03-06T13:47:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -138,7 +145,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/hao-wan.html</loc>
-<lastmod>2014-03-04T18:29:00-00:00</lastmod>
+<lastmod>2014-03-06T13:47:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -152,7 +159,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/wu-ci-ren.html</loc>
-<lastmod>2014-03-04T18:29:00-00:00</lastmod>
+<lastmod>2014-03-06T13:47:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
