@@ -1,8 +1,10 @@
 #! /usr/bin/env python
+# -*- coding: utf-8 -*-
 
-import sys
+import sys,os
 from lxml.html import parse
 from urlparse import urlparse
+import datetime
 
 class viralnova:
   def __init__(self, url, out):
@@ -12,6 +14,7 @@ class viralnova:
     self.article = 'article'
     if o.netloc=='www.viralnova.com': self.article='entry-content'
     if o.netloc=='www.wenxuecity.com': self.article='article'
+    if o.netloc=='www.topito.com': self.article='post-content'
     self.get()
     
 
@@ -45,7 +48,15 @@ class viralnova:
       self.text += tree.tail
 
   def dump(self):
-    print(self.text)
+    os.putenv('PYTHONIOENCODING','UTF-8')
+    print """title:
+date: %s
+category: 好
+slug:
+
+"""%datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+    for l in self.text.splitlines():
+      print "%s\n"%l.strip()
     for r in self.ref:
       print("%s\n"%r)
 
