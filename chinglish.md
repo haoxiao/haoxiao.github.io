@@ -134,14 +134,6 @@ Errmm, no thanks I’ll pass.
 ![ref35][ref35]
 
 
-[ref1]: http://pulptastic.com
-
-[ref2]: http://pulptastic.com/category/funny/
-
-[ref3]: https://twitter.com/share
-
-[ref4]: http://pinterest.com/pin/create/button/?url=http://pulptastic.com/chinese-translation-fails/&media=http://pulptastic.com/wp-content/uploads/2014/03/img9.jpg&description=30 Hilarious Chinese Translation Fails. These Are Too Crazy To Believe.
-
 [ref5]: http://cdn.pulptastic.com/wp-content/uploads/2014/03/1M0ig64.jpg
 
 [ref6]: http://cdn3.pulptastic.com/wp-content/uploads/2014/03/2Sjt0Py.jpg
